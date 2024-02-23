@@ -1,3 +1,25 @@
 .a{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.b{
+    text-align: center;
+}
+
+#alname{
+    border: none;
+    
+}
+
+.c{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+
+.d{
+    text-align: center;
 }
